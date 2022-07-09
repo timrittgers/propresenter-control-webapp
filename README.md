@@ -1,6 +1,6 @@
 # propresenter-control-webapp
 
-This project is a javascript based web application that utilizes the [Propresenter control api](https://openapi.propresenter.com) in order to connect to and control slide operations.
+This project is a javascript based web application that utilizes the [Propresenter control api](https://openapi.propresenter.com) in order to connect to and control slide operations. The UI is built on [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for simplicity of maintenance.
 
 ## How to use this web application
 
